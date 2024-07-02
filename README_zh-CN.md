@@ -42,7 +42,7 @@
 
 ## News 
 - 🙌 04-03 模型链接更新! [https://huggingface.co/xDAN-AI/APUS-xDAN-4.0-MOE]
-- 🙌 04-01 APUS-xDAN-4.0(MOE) 情景等待！
+- 🙌 04-01 APUS-xDAN-4.0(MOE) 尽请期待！
 - 🙌 03-31 APUS-xDAN-4.0(MOE) 首个中英文千亿MoE高性能模型开源, 可以落地到4090消费级显卡运行。
 
   
